@@ -8,7 +8,7 @@
 
 Draw a starry sky by console program
 
-![](https://github.com/breakerthb/StarrySky/star.gif)
+![](https://github.com/breakerthb/StarrySky/blob/master/star.gif)
 
 # Flag
 
